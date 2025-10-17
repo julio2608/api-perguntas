@@ -308,3 +308,113 @@
 {"id":308,"categoria":"Ciência","pergunta":"Qual é o maior órgão do corpo humano?","opcoes":["Fígado","Pele","Coração","Pulmão"],"resposta":"Pele"}
 {"id":309,"categoria":"Ciência","pergunta":"Qual é a unidade de medida da força no Sistema Internacional?","opcoes":["Newton","Joule","Watt","Pascal"],"resposta":"Newton"}
 {"id":310,"categoria":"Ciência","pergunta":"Qual é o planeta conhecido como 'Planeta Vermelho'?","opcoes":["Marte","Vênus","Júpiter","Saturno"],"resposta":"Marte"}
+{"id":311,"categoria":"História","pergunta":"Quem foi o primeiro presidente do Brasil?","opcoes":["Getúlio Vargas","Marechal Deodoro da Fonseca","Juscelino Kubitschek","Floriano Peixoto"],"resposta":"Marechal Deodoro da Fonseca"}
+{"id":312,"categoria":"História","pergunta":"Em que ano ocorreu a Proclamação da República no Brasil?","opcoes":["1889","1822","1891","1910"],"resposta":"1889"}
+{"id":313,"categoria":"Geografia","pergunta":"Qual é o maior país em extensão territorial do mundo?","opcoes":["Canadá","China","Rússia","Estados Unidos"],"resposta":"Rússia"}
+{"id":314,"categoria":"Geografia","pergunta":"Qual é o rio mais extenso do mundo?","opcoes":["Rio Amazonas","Rio Nilo","Rio Yangtzé","Rio Mississippi"],"resposta":"Rio Nilo"}
+{"id":315,"categoria":"Português","pergunta":"Qual é o plural correto da palavra 'cidadão'?","opcoes":["Cidadãos","Cidadães","Cidadãoses","Cidadões"],"resposta":"Cidadãos"}
+{"id":316,"categoria":"Português","pergunta":"Qual é o sujeito na frase: 'O gato dorme no sofá'?","opcoes":["O gato","dorme","no sofá","nenhuma"],"resposta":"O gato"}
+{"id":317,"categoria":"Matemática","pergunta":"Qual é o resultado de 15 × 8?","opcoes":["120","115","125","110"],"resposta":"120"}
+{"id":318,"categoria":"Matemática","pergunta":"Qual é a fração equivalente a 0,75?","opcoes":["3/4","1/2","7/10","2/3"],"resposta":"3/4"}
+{"id":319,"categoria":"Cultura Geral","pergunta":"Quem pintou a Mona Lisa?","opcoes":["Leonardo da Vinci","Michelangelo","Van Gogh","Pablo Picasso"],"resposta":"Leonardo da Vinci"}
+{"id":320,"categoria":"Cultura Geral","pergunta":"Qual é a capital da França?","opcoes":["Paris","Londres","Roma","Berlim"],"resposta":"Paris"}
+{"id":321,"categoria":"Ciência","pergunta":"Qual é a velocidade da luz no vácuo?","opcoes":["300.000 km/s","150.000 km/s","1.000 km/s","30.000 km/s"],"resposta":"300.000 km/s"}
+{"id":322,"categoria":"Ciência","pergunta":"Qual elemento químico tem o símbolo 'O'?","opcoes":["Oxigênio","Ouro","Osmio","Oxalato"],"resposta":"Oxigênio"}
+{"id":323,"categoria":"Ciência","pergunta":"Qual planeta é conhecido por seus anéis?","opcoes":["Saturno","Júpiter","Marte","Urano"],"resposta":"Saturno"}
+{"id":324,"categoria":"Ciência","pergunta":"Qual é a parte do cérebro responsável pelo equilíbrio?","opcoes":["Cerebelo","Hipotálamo","Córtex","Medula"],"resposta":"Cerebelo"}
+{"id":325,"categoria":"Ciência","pergunta":"Qual é o gás mais abundante na atmosfera terrestre?","opcoes":["Oxigênio","Nitrogênio","Dióxido de carbono","Hidrogênio"],"resposta":"Nitrogênio"}
+{"id":326,"categoria":"Ciência","pergunta":"Qual é a função dos glóbulos vermelhos?","opcoes":["Transportar oxigênio","Combater infecções","Produzir hormônios","Filtrar sangue"],"resposta":"Transportar oxigênio"}
+{"id":327,"categoria":"Ciência","pergunta":"Qual é o maior planeta do Sistema Solar?","opcoes":["Júpiter","Saturno","Terra","Netuno"],"resposta":"Júpiter"}
+{"id":328,"categoria":"Ciência","pergunta":"Qual é o elemento químico símbolo 'Fe'?","opcoes":["Ferro","Flúor","Fósforo","Frâncio"],"resposta":"Ferro"}
+{"id":329,"categoria":"Ciência","pergunta":"Qual é a função dos rins no corpo humano?","opcoes":["Filtrar o sangue","Produzir insulina","Controlar o ritmo cardíaco","Regular a respiração"],"resposta":"Filtrar o sangue"}
+{"id":330,"categoria":"Ciência","pergunta":"Qual é o órgão responsável pela produção de insulina?","opcoes":["Pâncreas","Fígado","Rim","Estômago"],"resposta":"Pâncreas"}
+{"id":331,"categoria":"História","pergunta":"Quem descobriu o Brasil?","opcoes":["Pedro Álvares Cabral","Cristóvão Colombo","Vasco da Gama","Fernão de Magalhães"],"resposta":"Pedro Álvares Cabral"}
+{"id":332,"categoria":"História","pergunta":"Qual foi a primeira civilização da Mesopotâmia?","opcoes":["Sumérios","Egípcios","Maias","Romanos"],"resposta":"Sumérios"}
+{"id":333,"categoria":"História","pergunta":"Em que ano terminou a Segunda Guerra Mundial?","opcoes":["1945","1939","1918","1950"],"resposta":"1945"}
+{"id":334,"categoria":"História","pergunta":"Quem foi o primeiro presidente do Brasil?","opcoes":["Getúlio Vargas","Marechal Deodoro da Fonseca","Juscelino Kubitschek","Floriano Peixoto"],"resposta":"Marechal Deodoro da Fonseca"}
+{"id":335,"categoria":"História","pergunta":"Qual foi o império que construiu o Coliseu?","opcoes":["Romano","Grego","Egípcio","Persa"],"resposta":"Romano"}
+{"id":336,"categoria":"História","pergunta":"Em que ano ocorreu a Revolução Francesa?","opcoes":["1789","1776","1804","1799"],"resposta":"1789"}
+{"id":337,"categoria":"História","pergunta":"Quem foi o líder da independência dos EUA?","opcoes":["George Washington","Abraham Lincoln","Thomas Jefferson","Benjamin Franklin"],"resposta":"George Washington"}
+{"id":338,"categoria":"História","pergunta":"Qual guerra ficou conhecida como a 'Grande Guerra'?","opcoes":["Primeira Guerra Mundial","Segunda Guerra Mundial","Guerra Fria","Guerra do Vietnã"],"resposta":"Primeira Guerra Mundial"}
+{"id":339,"categoria":"História","pergunta":"Quem inventou a imprensa?","opcoes":["Johannes Gutenberg","Leonardo da Vinci","Isaac Newton","Galileu Galilei"],"resposta":"Johannes Gutenberg"}
+{"id":340,"categoria":"História","pergunta":"Qual civilização construiu as pirâmides do Egito?","opcoes":["Egípcia","Mesopotâmica","Maias","Romanos"],"resposta":"Egípcia"}
+{"id":341,"categoria":"Geografia","pergunta":"Qual é o continente mais populoso do mundo?","opcoes":["Ásia","África","Europa","América"],"resposta":"Ásia"}
+{"id":342,"categoria":"Geografia","pergunta":"Qual é o deserto mais árido do mundo?","opcoes":["Deserto do Atacama","Sahara","Gobi","Kalahari"],"resposta":"Deserto do Atacama"}
+{"id":343,"categoria":"Geografia","pergunta":"Qual país possui mais ilhas no mundo?","opcoes":["Suécia","Canadá","Indonésia","Noruega"],"resposta":"Suécia"}
+{"id":344,"categoria":"Geografia","pergunta":"Qual é a capital da Austrália?","opcoes":["Canberra","Sydney","Melbourne","Brisbane"],"resposta":"Canberra"}
+{"id":345,"categoria":"Geografia","pergunta":"Qual é o maior oceano do mundo?","opcoes":["Oceano Pacífico","Oceano Atlântico","Oceano Índico","Oceano Ártico"],"resposta":"Oceano Pacífico"}
+{"id":346,"categoria":"Geografia","pergunta":"Qual é a montanha mais alta do mundo?","opcoes":["Everest","K2","Kangchenjunga","Lhotse"],"resposta":"Everest"}
+{"id":347,"categoria":"Geografia","pergunta":"Qual país tem a maior população do mundo?","opcoes":["China","Índia","Estados Unidos","Indonésia"],"resposta":"China"}
+{"id":348,"categoria":"Geografia","pergunta":"Qual é o rio mais longo da América do Sul?","opcoes":["Amazonas","Nilo","Mississippi","Yangtzé"],"resposta":"Amazonas"}
+{"id":349,"categoria":"Geografia","pergunta":"Qual país é conhecido como 'Terra do Sol Nascente'?","opcoes":["Japão","China","Coreia do Sul","Tailândia"],"resposta":"Japão"}
+{"id":350,"categoria":"Geografia","pergunta":"Qual é a capital do Canadá?","opcoes":["Ottawa","Toronto","Vancouver","Montreal"],"resposta":"Ottawa"}
+{"id":351,"categoria":"Cultura Geral","pergunta":"Quem pintou a Mona Lisa?","opcoes":["Leonardo da Vinci","Michelangelo","Van Gogh","Pablo Picasso"],"resposta":"Leonardo da Vinci"}
+{"id":352,"categoria":"Cultura Geral","pergunta":"Qual é o maior festival de cinema do mundo?","opcoes":["Festival de Cannes","Oscar","Festival de Veneza","Gramado"],"resposta":"Festival de Cannes"}
+{"id":353,"categoria":"Cultura Geral","pergunta":"Em qual país se originou o balé clássico?","opcoes":["Itália","França","Rússia","Inglaterra"],"resposta":"Itália"}
+{"id":354,"categoria":"Cultura Geral","pergunta":"Quem escreveu 'Dom Quixote'?","opcoes":["Miguel de Cervantes","William Shakespeare","Victor Hugo","Gabriel García Márquez"],"resposta":"Miguel de Cervantes"}
+{"id":355,"categoria":"Cultura Geral","pergunta":"Qual é a língua oficial da Argentina?","opcoes":["Espanhol","Português","Francês","Inglês"],"resposta":"Espanhol"}
+{"id":356,"categoria":"Cultura Geral","pergunta":"Quem compôs a ópera 'A Flauta Mágica'?","opcoes":["Mozart","Beethoven","Chopin","Bach"],"resposta":"Mozart"}
+{"id":357,"categoria":"Cultura Geral","pergunta":"Qual é o esporte mais popular do mundo?","opcoes":["Futebol","Basquete","Tênis","Críquete"],"resposta":"Futebol"}
+{"id":358,"categoria":"Cultura Geral","pergunta":"Qual cidade é conhecida como 'Cidade Luz'?","opcoes":["Paris","Londres","Nova York","Roma"],"resposta":"Paris"}
+{"id":359,"categoria":"Cultura Geral","pergunta":"Quem escreveu 'Harry Potter'?","opcoes":["J.K. Rowling","C.S. Lewis","Rick Riordan","Suzanne Collins"],"resposta":"J.K. Rowling"}
+{"id":360,"categoria":"Cultura Geral","pergunta":"Em que país nasceu Pablo Picasso?","opcoes":["Espanha","França","Itália","Portugal"],"resposta":"Espanha"}
+{"id":361,"categoria":"Ciência","pergunta":"Qual é a principal função dos pulmões?","opcoes":["Troca gasosa","Produzir hormônios","Filtrar sangue","Armazenar nutrientes"],"resposta":"Troca gasosa"}
+{"id":362,"categoria":"Ciência","pergunta":"Qual é o mineral mais duro da Terra?","opcoes":["Diamante","Quartzo","Ferro","Granito"],"resposta":"Diamante"}
+{"id":363,"categoria":"Ciência","pergunta":"Qual é o processo de transformação de lagarta em borboleta?","opcoes":["Metamorfose","Fotossíntese","Respiração","Germinação"],"resposta":"Metamorfose"}
+{"id":364,"categoria":"Ciência","pergunta":"Qual é o planeta mais próximo do Sol?","opcoes":["Mercúrio","Vênus","Terra","Marte"],"resposta":"Mercúrio"}
+{"id":365,"categoria":"Ciência","pergunta":"Qual é a camada da Terra onde vivemos?","opcoes":["Crosta","Manto","Núcleo","Litosfera"],"resposta":"Crosta"}
+{"id":366,"categoria":"Ciência","pergunta":"Qual é a principal fonte de energia do Sol?","opcoes":["Fusão nuclear","Fissão nuclear","Combustão","Eletricidade"],"resposta":"Fusão nuclear"}
+{"id":367,"categoria":"Ciência","pergunta":"Qual é o órgão responsável pela digestão química dos alimentos?","opcoes":["Estômago","Fígado","Pâncreas","Intestino grosso"],"resposta":"Estômago"}
+{"id":368,"categoria":"Ciência","pergunta":"Qual é a molécula que armazena informação genética?","opcoes":["DNA","RNA","ATP","Proteína"],"resposta":"DNA"}
+{"id":369,"categoria":"Ciência","pergunta":"Qual é o principal gás responsável pelo efeito estufa?","opcoes":["Dióxido de carbono","Oxigênio","Nitrogênio","Hidrogênio"],"resposta":"Dióxido de carbono"}
+{"id":370,"categoria":"Ciência","pergunta":"Qual é a unidade básica da vida?","opcoes":["Célula","Molécula","Átomo","Órgão"],"resposta":"Célula"}
+{"id":371,"categoria":"História","pergunta":"Quem liderou a independência da Índia?","opcoes":["Mahatma Gandhi","Jawaharlal Nehru","Indira Gandhi","Subhas Chandra Bose"],"resposta":"Mahatma Gandhi"}
+{"id":372,"categoria":"História","pergunta":"Em que país surgiu a Revolução Industrial?","opcoes":["Inglaterra","França","Alemanha","Estados Unidos"],"resposta":"Inglaterra"}
+{"id":373,"categoria":"História","pergunta":"Quem foi o faraó do Egito responsável pela construção da pirâmide de Quéops?","opcoes":["Quéops","Tutancâmon","Ramsés II","Cleópatra"],"resposta":"Quéops"}
+{"id":374,"categoria":"História","pergunta":"Qual foi a cidade onde caiu a primeira bomba atômica?","opcoes":["Hiroshima","Nagasaki","Tóquio","Osaka"],"resposta":"Hiroshima"}
+{"id":375,"categoria":"História","pergunta":"Quem escreveu 'A Arte da Guerra'?","opcoes":["Sun Tzu","Platão","Aristóteles","Maquiavel"],"resposta":"Sun Tzu"}
+{"id":376,"categoria":"História","pergunta":"Em que ano ocorreu a Revolução Russa?","opcoes":["1917","1905","1922","1939"],"resposta":"1917"}
+{"id":377,"categoria":"História","pergunta":"Quem foi Napoleão Bonaparte?","opcoes":["Imperador da França","Rei da Inglaterra","Presidente dos EUA","Czar da Rússia"],"resposta":"Imperador da França"}
+{"id":378,"categoria":"História","pergunta":"Qual civilização construiu Machu Picchu?","opcoes":["Inca","Maia","Asteca","Egípcia"],"resposta":"Inca"}
+{"id":379,"categoria":"História","pergunta":"Quem foi o líder do movimento pelos direitos civis nos EUA em 1960?","opcoes":["Martin Luther King Jr.","Malcolm X","Rosa Parks","Frederick Douglass"],"resposta":"Martin Luther King Jr."}
+{"id":380,"categoria":"História","pergunta":"Em que ano o Muro de Berlim caiu?","opcoes":["1989","1991","1985","1995"],"resposta":"1989"}
+{"id":381,"categoria":"Geografia","pergunta":"Qual é o maior país da América do Sul?","opcoes":["Brasil","Argentina","Peru","Colômbia"],"resposta":"Brasil"}
+{"id":382,"categoria":"Geografia","pergunta":"Qual é a capital do Egito?","opcoes":["Cairo","Alexandria","Luxor","Giza"],"resposta":"Cairo"}
+{"id":383,"categoria":"Geografia","pergunta":"Qual país é famoso por seus canais e tulipas?","opcoes":["Holanda","Bélgica","Dinamarca","Suíça"],"resposta":"Holanda"}
+{"id":384,"categoria":"Geografia","pergunta":"Qual é a capital da Rússia?","opcoes":["Moscou","São Petersburgo","Kazan","Vladivostok"],"resposta":"Moscou"}
+{"id":385,"categoria":"Geografia","pergunta":"Qual é o ponto mais alto da África?","opcoes":["Kilimanjaro","Montes Atlas","Montes Drakensberg","Montes Rwenzori"],"resposta":"Kilimanjaro"}
+{"id":386,"categoria":"Geografia","pergunta":"Qual é o maior lago do mundo?","opcoes":["Mar Cáspio","Lago Superior","Lago Vitória","Lago Michigan"],"resposta":"Mar Cáspio"}
+{"id":387,"categoria":"Geografia","pergunta":"Qual é o país mais extenso do mundo?","opcoes":["Rússia","Canadá","China","Estados Unidos"],"resposta":"Rússia"}
+{"id":388,"categoria":"Geografia","pergunta":"Qual é o maior arquipélago do mundo?","opcoes":["Indonésia","Filipinas","Japão","Maldivas"],"resposta":"Indonésia"}
+{"id":389,"categoria":"Geografia","pergunta":"Qual é a capital do México?","opcoes":["Cidade do México","Guadalajara","Monterrey","Cancún"],"resposta":"Cidade do México"}
+{"id":390,"categoria":"Geografia","pergunta":"Qual é o rio mais longo da África?","opcoes":["Nilo","Congo","Níger","Zambeze"],"resposta":"Nilo"}
+{"id":391,"categoria":"Cultura Geral","pergunta":"Quem pintou 'O Grito'?","opcoes":["Edvard Munch","Vincent Van Gogh","Picasso","Rembrandt"],"resposta":"Edvard Munch"}
+{"id":392,"categoria":"Cultura Geral","pergunta":"Quem escreveu 'O Pequeno Príncipe'?","opcoes":["Antoine de Saint-Exupéry","J.K. Rowling","Roald Dahl","C.S. Lewis"],"resposta":"Antoine de Saint-Exupéry"}
+{"id":393,"categoria":"Cultura Geral","pergunta":"Qual país é conhecido pela culinária sushi?","opcoes":["Japão","China","Tailândia","Coreia do Sul"],"resposta":"Japão"}
+{"id":394,"categoria":"Cultura Geral","pergunta":"Qual é o nome do maior teatro de ópera de Viena?","opcoes":["Wiener Staatsoper","La Scala","Covent Garden","Metropolitan Opera"],"resposta":"Wiener Staatsoper"}
+{"id":395,"categoria":"Cultura Geral","pergunta":"Quem escreveu 'Romeu e Julieta'?","opcoes":["William Shakespeare","Miguel de Cervantes","Homer","Victor Hugo"],"resposta":"William Shakespeare"}
+{"id":396,"categoria":"Cultura Geral","pergunta":"Qual é o instrumento musical principal em um concerto de orquestra?","opcoes":["Violino","Piano","Flauta","Trompete"],"resposta":"Violino"}
+{"id":397,"categoria":"Cultura Geral","pergunta":"Qual é a capital da Itália?","opcoes":["Roma","Milão","Florença","Veneza"],"resposta":"Roma"}
+{"id":398,"categoria":"Cultura Geral","pergunta":"Quem é conhecido como o 'Rei do Rock'?","opcoes":["Elvis Presley","Chuck Berry","Freddie Mercury","Michael Jackson"],"resposta":"Elvis Presley"}
+{"id":399,"categoria":"Cultura Geral","pergunta":"Qual é a cidade famosa pelo carnaval e pelo samba?","opcoes":["Rio de Janeiro","Salvador","São Paulo","Recife"],"resposta":"Rio de Janeiro"}
+{"id":400,"categoria":"Cultura Geral","pergunta":"Qual é a obra mais famosa de Leonardo da Vinci?","opcoes":["Mona Lisa","A Última Ceia","Homem Vitruviano","A Virgem das Rochas"],"resposta":"Mona Lisa"}
+{"id":401,"categoria":"Ciência","pergunta":"Qual é o planeta conhecido como 'Gigante Gasoso'?","opcoes":["Júpiter","Saturno","Netuno","Urano"],"resposta":"Júpiter"}
+{"id":402,"categoria":"Ciência","pergunta":"Qual é a célula responsável pela defesa do organismo?","opcoes":["Glóbulo branco","Glóbulo vermelho","Neurônio","Plaqueta"],"resposta":"Glóbulo branco"}
+{"id":403,"categoria":"Ciência","pergunta":"Qual é a camada da Terra formada por magma?","opcoes":["Manto","Crosta","Núcleo","Litosfera"],"resposta":"Manto"}
+{"id":404,"categoria":"Ciência","pergunta":"Qual é o processo pelo qual as plantas produzem alimento?","opcoes":["Fotossíntese","Respiração","Fermentação","Digestão"],"resposta":"Fotossíntese"}
+{"id":405,"categoria":"Ciência","pergunta":"Qual é o metal mais leve?","opcoes":["Lítio","Alumínio","Ferro","Cobre"],"resposta":"Lítio"}
+{"id":406,"categoria":"Ciência","pergunta":"Qual é o órgão responsável pela circulação do sangue?","opcoes":["Coração","Pulmão","Fígado","Rim"],"resposta":"Coração"}
+{"id":407,"categoria":"Ciência","pergunta":"Qual é o principal componente da água?","opcoes":["Hidrogênio e Oxigênio","Carbono e Oxigênio","Nitrogênio e Hidrogênio","Oxigênio e Nitrogênio"],"resposta":"Hidrogênio e Oxigênio"}
+{"id":408,"categoria":"Ciência","pergunta":"Qual é a camada atmosférica mais próxima da Terra?","opcoes":["Troposfera","Estratosfera","Mesosfera","Exosfera"],"resposta":"Troposfera"}
+{"id":409,"categoria":"Ciência","pergunta":"Qual é a unidade de medida da pressão?","opcoes":["Pascal","Newton","Joule","Watt"],"resposta":"Pascal"}
+{"id":410,"categoria":"Ciência","pergunta":"Qual órgão filtra toxinas e produz bile?","opcoes":["Fígado","Rim","Pâncreas","Estômago"],"resposta":"Fígado"}
+{"id":411,"categoria":"História","pergunta":"Quem foi o líder do nazismo na Alemanha?","opcoes":["Adolf Hitler","Benito Mussolini","Joseph Stalin","Winston Churchill"],"resposta":"Adolf Hitler"}
+{"id":412,"categoria":"História","pergunta":"Qual país foi governado por Cleópatra?","opcoes":["Egito","Roma","Grécia","Mesopotâmia"],"resposta":"Egito"}
+{"id":413,"categoria":"História","pergunta":"Em que ano Cristóvão Colombo chegou à América?","opcoes":["1492","1500","1485","1519"],"resposta":"1492"}
+{"id":414,"categoria":"História","pergunta":"Quem foi o presidente do Brasil durante a ditadura militar?","opcoes":["Emílio Garrastazu Médici","Getúlio Vargas","Juscelino Kubitschek","Tancredo Neves"],"resposta":"Emílio Garrastazu Médici"}
+{"id":415,"categoria":"História","pergunta":"Qual civilização construiu Chichén Itzá?","opcoes":["Maia","Inca","Asteca","Egípcia"],"resposta":"Maia"}
+{"id":416,"categoria":"História","pergunta":"Quem foi o primeiro imperador romano?","opcoes":["Augusto","Júlio César","Nero","Calígula"],"resposta":"Augusto"}
+{"id":417,"categoria":"História","pergunta":"Qual país teve a Revolução Gloriosa em 1688?","opcoes":["Inglaterra","França","Holanda","Espanha"],"resposta":"Inglaterra"}
+{"id":418,"categoria":"História","pergunta":"Quem foi o líder da União Soviética durante a Segunda Guerra Mundial?","opcoes":["Joseph Stalin","Lenin","Trotsky","Khrushchev"],"resposta":"Joseph Stalin"}
+{"id":419,"categoria":"História","pergunta":"Qual tratado encerrou a Primeira Guerra Mundial?","opcoes":["Tratado de Versalhes","Tratado de Paris","Tratado de Tordesilhas","Tratado de Utrecht"],"resposta":"Tratado de Versalhes"}
+{"id":420,"categoria":"História","pergunta":"Quem foi o responsável pela unificação da Alemanha no século XIX?","opcoes":["Otto von Bismarck","Napoleão Bonaparte","Wilhelm II","Frederico II"],"resposta":"Otto von Bismarck"}
