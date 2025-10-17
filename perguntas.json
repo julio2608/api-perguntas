@@ -298,3 +298,13 @@
 {"id":298,"categoria":"Geral","pergunta":"Qual é o país do samba e do futebol?","opcoes":["Argentina","Espanha","Brasil","Portugal"],"resposta":"Brasil"}
 {"id":299,"categoria":"Geral","pergunta":"Qual é a capital da Dinamarca?","opcoes":["Aarhus","Copenhague","Odense","Aalborg"],"resposta":"Copenhague"}
 {"id":300,"categoria":"Geral","pergunta":"Qual é a maior cachoeira do mundo?","opcoes":["Iguaçu","Niágara","Victoria","Angel Falls"],"resposta":"Angel Falls"}
+{"id":301,"categoria":"Ciência","pergunta":"Qual é a fórmula química da água?","opcoes":["H2O","CO2","O2","NaCl"],"resposta":"H2O"}
+{"id":302,"categoria":"Ciência","pergunta":"Qual é o planeta mais próximo do Sol?","opcoes":["Vênus","Mercúrio","Terra","Marte"],"resposta":"Mercúrio"}
+{"id":303,"categoria":"Ciência","pergunta":"Qual é o órgão responsável pela circulação sanguínea no corpo humano?","opcoes":["Fígado","Coração","Pulmão","Rim"],"resposta":"Coração"}
+{"id":304,"categoria":"Ciência","pergunta":"Qual é o elemento químico com símbolo 'O'?","opcoes":["Ouro","Oxigênio","Prata","Ferro"],"resposta":"Oxigênio"}
+{"id":305,"categoria":"Ciência","pergunta":"Qual é a unidade básica da vida?","opcoes":["Célula","Átomo","Molécula","Tecido"],"resposta":"Célula"}
+{"id":306,"categoria":"Ciência","pergunta":"Qual é o gás mais abundante na atmosfera terrestre?","opcoes":["Oxigênio","Nitrogênio","Dióxido de carbono","Hidrogênio"],"resposta":"Nitrogênio"}
+{"id":307,"categoria":"Ciência","pergunta":"Qual é o processo pelo qual as plantas produzem seu alimento?","opcoes":["Respiração celular","Fotossíntese","Fermentação","Digestão"],"resposta":"Fotossíntese"}
+{"id":308,"categoria":"Ciência","pergunta":"Qual é o maior órgão do corpo humano?","opcoes":["Fígado","Pele","Coração","Pulmão"],"resposta":"Pele"}
+{"id":309,"categoria":"Ciência","pergunta":"Qual é a unidade de medida da força no Sistema Internacional?","opcoes":["Newton","Joule","Watt","Pascal"],"resposta":"Newton"}
+{"id":310,"categoria":"Ciência","pergunta":"Qual é o planeta conhecido como 'Planeta Vermelho'?","opcoes":["Marte","Vênus","Júpiter","Saturno"],"resposta":"Marte"}
