@@ -1,2 +1,300 @@
-{"id":1,"categoria":"Geral","pergunta":"Qual é a capital do Brasil?","opcoes":["Rio de Janeiro","Brasília","São Paulo"],"resposta":"Brasília"}
-{"id":2,"categoria":"Ciência","pergunta":"Quantos planetas há no sistema solar?","opcoes":["7","8","9"],"resposta":"8"}
+{"id":1,"categoria":"Matemática","pergunta":"Quanto é 7 + 5?","opcoes":["11","12","13","14"],"resposta":"12"}
+{"id":2,"categoria":"Matemática","pergunta":"Qual é o valor de 9 x 6?","opcoes":["52","53","54","55"],"resposta":"54"}
+{"id":3,"categoria":"Matemática","pergunta":"Qual é a raiz quadrada de 81?","opcoes":["7","8","9","10"],"resposta":"9"}
+{"id":4,"categoria":"Matemática","pergunta":"Quanto é 15 - 7?","opcoes":["7","8","9","10"],"resposta":"8"}
+{"id":5,"categoria":"Matemática","pergunta":"Quanto é 12 ÷ 3?","opcoes":["3","4","5","6"],"resposta":"4"}
+{"id":6,"categoria":"Matemática","pergunta":"Qual é o valor de 5²?","opcoes":["10","20","25","30"],"resposta":"25"}
+{"id":7,"categoria":"Matemática","pergunta":"Quanto é 3 x 8?","opcoes":["21","24","27","30"],"resposta":"24"}
+{"id":8,"categoria":"Matemática","pergunta":"Qual é a raiz quadrada de 64?","opcoes":["6","7","8","9"],"resposta":"8"}
+{"id":9,"categoria":"Matemática","pergunta":"Quanto é 18 + 27?","opcoes":["45","44","43","46"],"resposta":"45"}
+{"id":10,"categoria":"Matemática","pergunta":"Quanto é 50 ÷ 5?","opcoes":["5","10","15","20"],"resposta":"10"}
+{"id":11,"categoria":"Matemática","pergunta":"Qual é o valor de 7³?","opcoes":["343","342","344","345"],"resposta":"343"}
+{"id":12,"categoria":"Matemática","pergunta":"Quanto é 100 - 37?","opcoes":["63","62","64","61"],"resposta":"63"}
+{"id":13,"categoria":"Matemática","pergunta":"Quanto é 9 + 16?","opcoes":["24","25","26","27"],"resposta":"25"}
+{"id":14,"categoria":"Matemática","pergunta":"Quanto é 14 ÷ 2?","opcoes":["6","7","8","9"],"resposta":"7"}
+{"id":15,"categoria":"Matemática","pergunta":"Qual é o dobro de 35?","opcoes":["60","65","70","75"],"resposta":"70"}
+{"id":16,"categoria":"Matemática","pergunta":"Qual é a metade de 84?","opcoes":["41","42","43","44"],"resposta":"42"}
+{"id":17,"categoria":"Matemática","pergunta":"Quanto é 11 x 11?","opcoes":["111","121","131","141"],"resposta":"121"}
+{"id":18,"categoria":"Matemática","pergunta":"Qual é a raiz quadrada de 100?","opcoes":["8","9","10","11"],"resposta":"10"}
+{"id":19,"categoria":"Matemática","pergunta":"Quanto é 45 + 30?","opcoes":["70","75","80","85"],"resposta":"75"}
+{"id":20,"categoria":"Matemática","pergunta":"Quanto é 60 ÷ 12?","opcoes":["4","5","6","7"],"resposta":"5"}
+{"id":21,"categoria":"Matemática","pergunta":"Qual é o valor de 8²?","opcoes":["54","56","64","66"],"resposta":"64"}
+{"id":22,"categoria":"Matemática","pergunta":"Quanto é 13 + 19?","opcoes":["30","31","32","33"],"resposta":"32"}
+{"id":23,"categoria":"Matemática","pergunta":"Quanto é 21 - 9?","opcoes":["10","11","12","13"],"resposta":"12"}
+{"id":24,"categoria":"Matemática","pergunta":"Quanto é 7 x 9?","opcoes":["61","62","63","64"],"resposta":"63"}
+{"id":25,"categoria":"Matemática","pergunta":"Qual é a raiz quadrada de 49?","opcoes":["6","7","8","9"],"resposta":"7"}
+{"id":26,"categoria":"Matemática","pergunta":"Quanto é 55 + 25?","opcoes":["75","80","85","90"],"resposta":"80"}
+{"id":27,"categoria":"Matemática","pergunta":"Quanto é 18 ÷ 3?","opcoes":["5","6","7","8"],"resposta":"6"}
+{"id":28,"categoria":"Matemática","pergunta":"Qual é o valor de 6³?","opcoes":["216","218","220","222"],"resposta":"216"}
+{"id":29,"categoria":"Matemática","pergunta":"Quanto é 33 - 18?","opcoes":["14","15","16","17"],"resposta":"15"}
+{"id":30,"categoria":"Matemática","pergunta":"Quanto é 4 x 12?","opcoes":["46","47","48","49"],"resposta":"48"}
+{"id":31,"categoria":"Matemática","pergunta":"Qual é o dobro de 27?","opcoes":["52","53","54","55"],"resposta":"54"}
+{"id":32,"categoria":"Matemática","pergunta":"Qual é a metade de 90?","opcoes":["44","45","46","47"],"resposta":"45"}
+{"id":33,"categoria":"Matemática","pergunta":"Quanto é 15 x 3?","opcoes":["40","45","50","55"],"resposta":"45"}
+{"id":34,"categoria":"Matemática","pergunta":"Quanto é 121 ÷ 11?","opcoes":["10","11","12","13"],"resposta":"11"}
+{"id":35,"categoria":"Matemática","pergunta":"Qual é a raiz quadrada de 36?","opcoes":["5","6","7","8"],"resposta":"6"}
+{"id":36,"categoria":"Matemática","pergunta":"Quanto é 20 + 35?","opcoes":["50","55","60","65"],"resposta":"55"}
+{"id":37,"categoria":"Matemática","pergunta":"Quanto é 81 ÷ 9?","opcoes":["8","9","10","11"],"resposta":"9"}
+{"id":38,"categoria":"Matemática","pergunta":"Qual é o valor de 10²?","opcoes":["90","95","100","105"],"resposta":"100"}
+{"id":39,"categoria":"Matemática","pergunta":"Quanto é 17 + 28?","opcoes":["44","45","46","47"],"resposta":"45"}
+{"id":40,"categoria":"Matemática","pergunta":"Quanto é 56 ÷ 8?","opcoes":["6","7","8","9"],"resposta":"7"}
+{"id":41,"categoria":"Matemática","pergunta":"Qual é o valor de 9²?","opcoes":["80","81","82","83"],"resposta":"81"}
+{"id":42,"categoria":"Matemática","pergunta":"Quanto é 23 - 7?","opcoes":["14","15","16","17"],"resposta":"16"}
+{"id":43,"categoria":"Matemática","pergunta":"Quanto é 8 x 7?","opcoes":["54","55","56","57"],"resposta":"56"}
+{"id":44,"categoria":"Matemática","pergunta":"Qual é a raiz quadrada de 121?","opcoes":["10","11","12","13"],"resposta":"11"}
+{"id":45,"categoria":"Matemática","pergunta":"Quanto é 44 + 33?","opcoes":["75","76","77","78"],"resposta":"77"}
+{"id":46,"categoria":"Matemática","pergunta":"Quanto é 18 ÷ 6?","opcoes":["2","3","4","5"],"resposta":"3"}
+{"id":47,"categoria":"Matemática","pergunta":"Qual é o valor de 12²?","opcoes":["140","144","148","150"],"resposta":"144"}
+{"id":48,"categoria":"Matemática","pergunta":"Quanto é 36 - 15?","opcoes":["20","21","22","23"],"resposta":"21"}
+{"id":49,"categoria":"Matemática","pergunta":"Quanto é 5 x 14?","opcoes":["65","70","75","80"],"resposta":"70"}
+{"id":50,"categoria":"Matemática","pergunta":"Qual é a raiz quadrada de 144?","opcoes":["10","11","12","13"],"resposta":"12"}
+{"id":51,"categoria":"Matemática","pergunta":"Quanto é 19 + 27?","opcoes":["44","45","46","47"],"resposta":"46"}
+{"id":52,"categoria":"Matemática","pergunta":"Quanto é 72 ÷ 8?","opcoes":["8","9","10","11"],"resposta":"9"}
+{"id":53,"categoria":"Matemática","pergunta":"Qual é o dobro de 48?","opcoes":["90","92","96","98"],"resposta":"96"}
+{"id":54,"categoria":"Matemática","pergunta":"Qual é a metade de 150?","opcoes":["70","75","80","85"],"resposta":"75"}
+{"id":55,"categoria":"Matemática","pergunta":"Quanto é 6 x 9?","opcoes":["52","53","54","55"],"resposta":"54"}
+{"id":56,"categoria":"Matemática","pergunta":"Quanto é 27 - 12?","opcoes":["14","15","16","17"],"resposta":"15"}
+{"id":57,"categoria":"Matemática","pergunta":"Quanto é 8²?","opcoes":["60","62","64","66"],"resposta":"64"}
+{"id":58,"categoria":"Matemática","pergunta":"Qual é a raiz quadrada de 225?","opcoes":["14","15","16","17"],"resposta":"15"}
+{"id":59,"categoria":"Matemática","pergunta":"Quanto é 33 + 44?","opcoes":["75","76","77","78"],"resposta":"77"}
+{"id":60,"categoria":"Matemática","pergunta":"Quanto é 81 ÷ 9?","opcoes":["8","9","10","11"],"resposta":"9"}
+{"id":61,"categoria":"Matemática","pergunta":"Qual é o valor de 15²?","opcoes":["210","215","225","230"],"resposta":"225"}
+{"id":62,"categoria":"Matemática","pergunta":"Quanto é 49 - 28?","opcoes":["20","21","22","23"],"resposta":"21"}
+{"id":63,"categoria":"Matemática","pergunta":"Quanto é 7 x 8?","opcoes":["54","55","56","57"],"resposta":"56"}
+{"id":64,"categoria":"Matemática","pergunta":"Qual é a raiz quadrada de 169?","opcoes":["12","13","14","15"],"resposta":"13"}
+{"id":65,"categoria":"Matemática","pergunta":"Quanto é 60 + 25?","opcoes":["85","86","87","88"],"resposta":"85"}
+{"id":66,"categoria":"Matemática","pergunta":"Quanto é 36 ÷ 6?","opcoes":["5","6","7","8"],"resposta":"6"}
+{"id":67,"categoria":"Matemática","pergunta":"Qual é o valor de 11²?","opcoes":["120","121","122","123"],"resposta":"121"}
+{"id":68,"categoria":"Matemática","pergunta":"Quanto é 28 + 33?","opcoes":["60","61","62","63"],"resposta":"61"}
+{"id":69,"categoria":"Matemática","pergunta":"Quanto é 42 - 18?","opcoes":["23","24","25","26"],"resposta":"24"}
+{"id":70,"categoria":"Matemática","pergunta":"Quanto é 9 x 7?","opcoes":["61","62","63","64"],"resposta":"63"}
+{"id":71,"categoria":"Matemática","pergunta":"Qual é a raiz quadrada de 196?","opcoes":["13","14","15","16"],"resposta":"14"}
+{"id":72,"categoria":"Matemática","pergunta":"Quanto é 55 + 45?","opcoes":["95","100","105","110"],"resposta":"100"}
+{"id":73,"categoria":"Matemática","pergunta":"Quanto é 24 ÷ 3?","opcoes":["7","8","9","10"],"resposta":"8"}
+{"id":74,"categoria":"Matemática","pergunta":"Qual é o valor de 14²?","opcoes":["194","196","198","200"],"resposta":"196"}
+{"id":75,"categoria":"Matemática","pergunta":"Quanto é 30 - 17?","opcoes":["12","13","14","15"],"resposta":"13"}
+{"id":76,"categoria":"Matemática","pergunta":"Quanto é 5 x 16?","opcoes":["75","80","85","90"],"resposta":"80"}
+{"id":77,"categoria":"Matemática","pergunta":"Qual é a raiz quadrada de 256?","opcoes":["14","15","16","17"],"resposta":"16"}
+{"id":78,"categoria":"Matemática","pergunta":"Quanto é 18 + 37?","opcoes":["54","55","56","57"],"resposta":"55"}
+{"id":79,"categoria":"Matemática","pergunta":"Quanto é 63 ÷ 7?","opcoes":["8","9","10","11"],"resposta":"9"}
+{"id":80,"categoria":"Matemática","pergunta":"Qual é o valor de 13²?","opcoes":["160","169","170","171"],"resposta":"169"}
+{"id":81,"categoria":"Matemática","pergunta":"Quanto é 40 - 15?","opcoes":["23","24","25","26"],"resposta":"25"}
+{"id":82,"categoria":"Matemática","pergunta":"Quanto é 12 x 6?","opcoes":["70","72","74","76"],"resposta":"72"}
+{"id":83,"categoria":"Matemática","pergunta":"Qual é a raiz quadrada de 324?","opcoes":["17","18","19","20"],"resposta":"18"}
+{"id":84,"categoria":"Matemática","pergunta":"Quanto é 27 + 33?","opcoes":["59","60","61","62"],"resposta":"60"}
+{"id":85,"categoria":"Matemática","pergunta":"Quanto é 80 ÷ 8?","opcoes":["9","10","11","12"],"resposta":"10"}
+{"id":86,"categoria":"Matemática","pergunta":"Qual é o valor de 16²?","opcoes":["250","256","260","264"],"resposta":"256"}
+{"id":87,"categoria":"Matemática","pergunta":"Quanto é 35 - 19?","opcoes":["15","16","17","18"],"resposta":"16"}
+{"id":88,"categoria":"Matemática","pergunta":"Quanto é 7 x 12?","opcoes":["82","83","84","85"],"resposta":"84"}
+{"id":89,"categoria":"Matemática","pergunta":"Qual é a raiz quadrada de 289?","opcoes":["16","17","18","19"],"resposta":"17"}
+{"id":90,"categoria":"Matemática","pergunta":"Quanto é 50 + 25?","opcoes":["70","75","80","85"],"resposta":"75"}
+{"id":91,"categoria":"Matemática","pergunta":"Quanto é 36 ÷ 4?","opcoes":["8","9","10","11"],"resposta":"9"}
+{"id":92,"categoria":"Matemática","pergunta":"Qual é o valor de 18²?","opcoes":["320","324","328","330"],"resposta":"324"}
+{"id":93,"categoria":"Matemática","pergunta":"Quanto é 48 - 29?","opcoes":["18","19","20","21"],"resposta":"19"}
+{"id":94,"categoria":"Matemática","pergunta":"Quanto é 6 x 11?","opcoes":["64","65","66","67"],"resposta":"66"}
+{"id":95,"categoria":"Matemática","pergunta":"Qual é a raiz quadrada de 400?","opcoes":["18","19","20","21"],"resposta":"20"}
+{"id":96,"categoria":"Matemática","pergunta":"Quanto é 22 + 33?","opcoes":["54","55","56","57"],"resposta":"55"}
+{"id":97,"categoria":"Matemática","pergunta":"Quanto é 81 ÷ 9?","opcoes":["8","9","10","11"],"resposta":"9"}
+{"id":98,"categoria":"Matemática","pergunta":"Qual é o valor de 19²?","opcoes":["360","361","362","363"],"resposta":"361"}
+{"id":99,"categoria":"Matemática","pergunta":"Quanto é 47 - 23?","opcoes":["23","24","25","26"],"resposta":"24"}
+{"id":100,"categoria":"Matemática","pergunta":"Quanto é 8 x 13?","opcoes":["102","103","104","105"],"resposta":"104"}
+{"id":101,"categoria":"Português","pergunta":"Qual é o plural de 'cão'?","opcoes":["cãos","cães","cãoses","cãon"],"resposta":"cães"}
+{"id":102,"categoria":"Português","pergunta":"Complete a frase: Ele ___ ao mercado.","opcoes":["foi","fou","vá","ia"],"resposta":"foi"}
+{"id":103,"categoria":"Português","pergunta":"Qual é o antônimo de 'alto'?","opcoes":["baixo","grande","longo","curto"],"resposta":"baixo"}
+{"id":104,"categoria":"Português","pergunta":"Qual é o plural de 'pão'?","opcoes":["pãos","pães","pãoses","pãon"],"resposta":"pães"}
+{"id":105,"categoria":"Português","pergunta":"Complete a frase: Eu ___ estudando.","opcoes":["estou","esta","esteve","estava"],"resposta":"estou"}
+{"id":106,"categoria":"Português","pergunta":"Qual é o sinônimo de 'feliz'?","opcoes":["contente","triste","raivoso","aborrecido"],"resposta":"contente"}
+{"id":107,"categoria":"Português","pergunta":"Qual é o plural de 'cidadão'?","opcoes":["cidadãos","cidadães","cidadãoses","cidadon"],"resposta":"cidadãos"}
+{"id":108,"categoria":"Português","pergunta":"Complete: Nós ___ ao cinema ontem.","opcoes":["fomos","foi","vamos","foram"],"resposta":"fomos"}
+{"id":109,"categoria":"Português","pergunta":"Qual é o antônimo de 'claro'?","opcoes":["escuro","brilhante","luzido","iluminado"],"resposta":"escuro"}
+{"id":110,"categoria":"Português","pergunta":"Qual é o plural de 'mulher'?","opcoes":["mulhers","mulheres","mulheras","mulherões"],"resposta":"mulheres"}
+{"id":111,"categoria":"Português","pergunta":"Complete: Eles ___ felizes.","opcoes":["estão","é","são","foi"],"resposta":"estão"}
+{"id":112,"categoria":"Português","pergunta":"Qual é o sinônimo de 'inteligente'?","opcoes":["esperto","burro","tolo","louco"],"resposta":"esperto"}
+{"id":113,"categoria":"Português","pergunta":"Qual é o plural de 'lápis'?","opcoes":["lápises","lápis","lápiss","lápisez"],"resposta":"lápis"}
+{"id":114,"categoria":"Português","pergunta":"Complete: Eu ___ um livro.","opcoes":["tenho","tinha","tem","teve"],"resposta":"tenho"}
+{"id":115,"categoria":"Português","pergunta":"Qual é o antônimo de 'rápido'?","opcoes":["devagar","lento","demorado","parado"],"resposta":"devagar"}
+{"id":116,"categoria":"Português","pergunta":"Qual é o plural de 'homem'?","opcoes":["homens","homens","homenss","homensz"],"resposta":"homens"}
+{"id":117,"categoria":"Português","pergunta":"Complete: Eles ___ ao parque amanhã.","opcoes":["vão","vai","foram","ido"],"resposta":"vão"}
+{"id":118,"categoria":"Português","pergunta":"Qual é o sinônimo de 'triste'?","opcoes":["infeliz","alegre","contente","animado"],"resposta":"infeliz"}
+{"id":119,"categoria":"Português","pergunta":"Qual é o plural de 'animal'?","opcoes":["animais","animaises","animales","animaes"],"resposta":"animais"}
+{"id":120,"categoria":"Português","pergunta":"Complete: Eu ___ cansado ontem.","opcoes":["estava","estou","estive","é"],"resposta":"estava"}
+{"id":121,"categoria":"Português","pergunta":"Qual é o antônimo de 'forte'?","opcoes":["fraco","robusto","pesado","resistente"],"resposta":"fraco"}
+{"id":122,"categoria":"Português","pergunta":"Qual é o plural de 'flor'?","opcoes":["flores","flors","florz","florez"],"resposta":"flores"}
+{"id":123,"categoria":"Português","pergunta":"Complete: Nós ___ no parque.","opcoes":["estamos","estão","estava","são"],"resposta":"estamos"}
+{"id":124,"categoria":"Português","pergunta":"Qual é o sinônimo de 'rápido'?","opcoes":["veloz","lento","demorado","parado"],"resposta":"veloz"}
+{"id":125,"categoria":"Português","pergunta":"Qual é o plural de 'pão'?","opcoes":["pãos","pães","pãoses","pãon"],"resposta":"pães"}
+{"id":126,"categoria":"Português","pergunta":"Complete: Eles ___ estudando.","opcoes":["estão","é","são","foi"],"resposta":"estão"}
+{"id":127,"categoria":"Português","pergunta":"Qual é o antônimo de 'amigo'?","opcoes":["inimigo","companheiro","colega","vizinho"],"resposta":"inimigo"}
+{"id":128,"categoria":"Português","pergunta":"Qual é o plural de 'coração'?","opcoes":["corações","coraçõess","coraçães","coraçãoes"],"resposta":"corações"}
+{"id":129,"categoria":"Português","pergunta":"Complete: Eu ___ muito feliz ontem.","opcoes":["estava","estou","estive","é"],"resposta":"estava"}
+{"id":130,"categoria":"Português","pergunta":"Qual é o sinônimo de 'alegre'?","opcoes":["contente","triste","infeliz","aburrido"],"resposta":"contente"}
+{"id":131,"categoria":"Português","pergunta":"Qual é o plural de 'luz'?","opcoes":["luzes","luzeses","luzesn","luzs"],"resposta":"luzes"}
+{"id":132,"categoria":"Português","pergunta":"Complete: Eles ___ indo à escola.","opcoes":["estão","é","são","foi"],"resposta":"estão"}
+{"id":133,"categoria":"Português","pergunta":"Qual é o antônimo de 'cheio'?","opcoes":["vazio","pleno","repleto","completo"],"resposta":"vazio"}
+{"id":134,"categoria":"Português","pergunta":"Qual é o plural de 'cidadão'?","opcoes":["cidadãos","cidadães","cidadãoses","cidadon"],"resposta":"cidadãos"}
+{"id":135,"categoria":"Português","pergunta":"Complete: Eu ___ estudando para a prova.","opcoes":["estou","estava","estive","é"],"resposta":"estou"}
+{"id":136,"categoria":"Português","pergunta":"Qual é o sinônimo de 'bonito'?","opcoes":["belo","feio","horrível","ruim"],"resposta":"belo"}
+{"id":137,"categoria":"Português","pergunta":"Qual é o plural de 'animal'?","opcoes":["animais","animales","animaises","animaes"],"resposta":"animais"}
+{"id":138,"categoria":"Português","pergunta":"Complete: Eles ___ felizes com a notícia.","opcoes":["estão","é","são","foi"],"resposta":"estão"}
+{"id":139,"categoria":"Português","pergunta":"Qual é o antônimo de 'limpo'?","opcoes":["sujo","claro","branco","higienizado"],"resposta":"sujo"}
+{"id":140,"categoria":"Português","pergunta":"Qual é o plural de 'mulher'?","opcoes":["mulheres","mulheras","mulherões","mulhers"],"resposta":"mulheres"}
+{"id":141,"categoria":"Português","pergunta":"Complete: Eu ___ cansado ontem.","opcoes":["estava","estou","estive","é"],"resposta":"estava"}
+{"id":142,"categoria":"Português","pergunta":"Qual é o sinônimo de 'inteligente'?","opcoes":["esperto","burro","tolo","louco"],"resposta":"esperto"}
+{"id":143,"categoria":"Português","pergunta":"Qual é o plural de 'fato'?","opcoes":["fatos","fatoes","fatoss","fatosn"],"resposta":"fatos"}
+{"id":144,"categoria":"Português","pergunta":"Complete: Eles ___ ao cinema amanhã.","opcoes":["vão","vai","foram","ido"],"resposta":"vão"}
+{"id":145,"categoria":"Português","pergunta":"Qual é o antônimo de 'gordo'?","opcoes":["magro","forte","alto","baixo"],"resposta":"magro"}
+{"id":146,"categoria":"Português","pergunta":"Qual é o plural de 'papel'?","opcoes":["papéis","papels","papeles","papeis"],"resposta":"papéis"}
+{"id":147,"categoria":"Português","pergunta":"Complete: Eu ___ com fome agora.","opcoes":["estou","estava","estive","é"],"resposta":"estou"}
+{"id":148,"categoria":"Português","pergunta":"Qual é o sinônimo de 'triste'?","opcoes":["infeliz","feliz","alegre","animado"],"resposta":"infeliz"}
+{"id":149,"categoria":"Português","pergunta":"Qual é o plural de 'homem'?","opcoes":["homens","homenss","homensz","homenes"],"resposta":"homens"}
+{"id":150,"categoria":"Português","pergunta":"Complete: Nós ___ estudando juntos.","opcoes":["estamos","estão","é","foi"],"resposta":"estamos"}
+{"id":151,"categoria":"Português","pergunta":"Qual é o antônimo de 'feliz'?","opcoes":["triste","alegre","satisfeito","animado"],"resposta":"triste"}
+{"id":152,"categoria":"Português","pergunta":"Qual é o plural de 'irmão'?","opcoes":["irmãos","irmães","irmãoses","irmones"],"resposta":"irmãos"}
+{"id":153,"categoria":"Português","pergunta":"Complete: Ela ___ de viajar.","opcoes":["gosta","gostam","gostou","gostas"],"resposta":"gosta"}
+{"id":154,"categoria":"Português","pergunta":"Qual é o sinônimo de 'difícil'?","opcoes":["complicado","fácil","simples","leve"],"resposta":"complicado"}
+{"id":155,"categoria":"Português","pergunta":"Qual é o plural de 'avião'?","opcoes":["aviões","aviãos","aviãoses","avions"],"resposta":"aviões"}
+{"id":156,"categoria":"Português","pergunta":"Complete: Eu ___ ao médico amanhã.","opcoes":["vou","vai","fui","iria"],"resposta":"vou"}
+{"id":157,"categoria":"Português","pergunta":"Qual é o antônimo de 'claro'?","opcoes":["escuro","branco","transparente","limpo"],"resposta":"escuro"}
+{"id":158,"categoria":"Português","pergunta":"Qual é o plural de 'mão'?","opcoes":["mãos","mãoses","mãon","mãoses"],"resposta":"mãos"}
+{"id":159,"categoria":"Português","pergunta":"Complete: Eles ___ estudando.","opcoes":["estão","é","são","foi"],"resposta":"estão"}
+{"id":160,"categoria":"Português","pergunta":"Qual é o sinônimo de 'rápido'?","opcoes":["veloz","lento","devagar","tardio"],"resposta":"veloz"}
+{"id":161,"categoria":"Português","pergunta":"Qual é o plural de 'chapéu'?","opcoes":["chapéus","chapéis","chapéuzes","chapeus"],"resposta":"chapéus"}
+{"id":162,"categoria":"Português","pergunta":"Complete: Nós ___ brincando.","opcoes":["estamos","é","são","foi"],"resposta":"estamos"}
+{"id":163,"categoria":"Português","pergunta":"Qual é o antônimo de 'felicidade'?","opcoes":["tristeza","alegria","emoção","entusiasmo"],"resposta":"tristeza"}
+{"id":164,"categoria":"Português","pergunta":"Qual é o plural de 'cruz'?","opcoes":["cruzes","cruzs","cruzesn","cruzeses"],"resposta":"cruzes"}
+{"id":165,"categoria":"Português","pergunta":"Complete: Eu ___ muito cansado.","opcoes":["estou","é","foi","são"],"resposta":"estou"}
+{"id":166,"categoria":"Português","pergunta":"Qual é o sinônimo de 'calmo'?","opcoes":["tranquilo","agitado","nervoso","ansioso"],"resposta":"tranquilo"}
+{"id":167,"categoria":"Português","pergunta":"Qual é o plural de 'carro'?","opcoes":["carros","carres","carreis","caros"],"resposta":"carros"}
+{"id":168,"categoria":"Português","pergunta":"Complete: Eles ___ de férias.","opcoes":["estão","é","são","foi"],"resposta":"estão"}
+{"id":169,"categoria":"Português","pergunta":"Qual é o antônimo de 'alegre'?","opcoes":["triste","feliz","animado","risonho"],"resposta":"triste"}
+{"id":170,"categoria":"Português","pergunta":"Qual é o plural de 'sol'?","opcoes":["sóis","sois","soes","soles"],"resposta":"sóis"}
+{"id":171,"categoria":"Português","pergunta":"Complete: Eu ___ com sede.","opcoes":["estou","estava","estive","é"],"resposta":"estou"}
+{"id":172,"categoria":"Português","pergunta":"Qual é o sinônimo de 'bonito'?","opcoes":["belo","feio","horrível","ruim"],"resposta":"belo"}
+{"id":173,"categoria":"Português","pergunta":"Qual é o plural de 'flor'?","opcoes":["flores","flors","florse","florses"],"resposta":"flores"}
+{"id":174,"categoria":"Português","pergunta":"Complete: Nós ___ ao parque.","opcoes":["fomos","vai","foram","indo"],"resposta":"fomos"}
+{"id":175,"categoria":"Português","pergunta":"Qual é o antônimo de 'velho'?","opcoes":["novo","antigo","idoso","passado"],"resposta":"novo"}
+{"id":176,"categoria":"Português","pergunta":"Qual é o plural de 'ladrão'?","opcoes":["ladrões","ladrãos","ladroes","ladrãoses"],"resposta":"ladrões"}
+{"id":177,"categoria":"Português","pergunta":"Complete: Ela ___ feliz hoje.","opcoes":["está","são","foi","eram"],"resposta":"está"}
+{"id":178,"categoria":"Português","pergunta":"Qual é o sinônimo de 'difícil'?","opcoes":["complicado","fácil","simples","leve"],"resposta":"complicado"}
+{"id":179,"categoria":"Português","pergunta":"Qual é o plural de 'chapéu'?","opcoes":["chapéus","chapéis","chapeus","chapéuzes"],"resposta":"chapéus"}
+{"id":180,"categoria":"Português","pergunta":"Complete: Eu ___ estudando para a prova.","opcoes":["estou","estava","é","são"],"resposta":"estou"}
+{"id":181,"categoria":"Português","pergunta":"Qual é o antônimo de 'frio'?","opcoes":["quente","gelado","úmido","vento"],"resposta":"quente"}
+{"id":182,"categoria":"Português","pergunta":"Qual é o plural de 'trem'?","opcoes":["trens","trems","tremes","tremesn"],"resposta":"trens"}
+{"id":183,"categoria":"Português","pergunta":"Complete: Eles ___ com fome.","opcoes":["estão","é","são","foi"],"resposta":"estão"}
+{"id":184,"categoria":"Português","pergunta":"Qual é o sinônimo de 'feliz'?","opcoes":["contente","triste","irritado","preocupado"],"resposta":"contente"}
+{"id":185,"categoria":"Português","pergunta":"Qual é o plural de 'mão'?","opcoes":["mãos","mãoses","mãon","mãons"],"resposta":"mãos"}
+{"id":186,"categoria":"Português","pergunta":"Complete: Nós ___ cansados.","opcoes":["estamos","são","foi","é"],"resposta":"estamos"}
+{"id":187,"categoria":"Português","pergunta":"Qual é o antônimo de 'baixo'?","opcoes":["alto","curto","pequeno","raso"],"resposta":"alto"}
+{"id":188,"categoria":"Português","pergunta":"Qual é o plural de 'sol'?","opcoes":["sóis","soles","sois","soll"],"resposta":"sóis"}
+{"id":189,"categoria":"Português","pergunta":"Complete: Ela ___ cansada.","opcoes":["está","é","são","foi"],"resposta":"está"}
+{"id":190,"categoria":"Português","pergunta":"Qual é o sinônimo de 'difícil'?","opcoes":["complicado","fácil","leve","tranquilo"],"resposta":"complicado"}
+{"id":191,"categoria":"Português","pergunta":"Qual é o plural de 'fuzil'?","opcoes":["fuzis","fuziles","fuzils","fuzise"],"resposta":"fuzis"}
+{"id":192,"categoria":"Português","pergunta":"Complete: Eu ___ com sono.","opcoes":["estou","é","são","foi"],"resposta":"estou"}
+{"id":193,"categoria":"Português","pergunta":"Qual é o antônimo de 'trabalhar'?","opcoes":["descansar","cansar","andar","comer"],"resposta":"descansar"}
+{"id":194,"categoria":"Português","pergunta":"Qual é o plural de 'voz'?","opcoes":["vozes","vozeses","vozs","vozis"],"resposta":"vozes"}
+{"id":195,"categoria":"Português","pergunta":"Complete: Eles ___ estudando muito.","opcoes":["estão","é","são","foi"],"resposta":"estão"}
+{"id":196,"categoria":"Português","pergunta":"Qual é o sinônimo de 'bonito'?","opcoes":["belo","feio","horrível","ruim"],"resposta":"belo"}
+{"id":197,"categoria":"Português","pergunta":"Qual é o plural de 'trem'?","opcoes":["trens","tremes","trems","tremesn"],"resposta":"trens"}
+{"id":198,"categoria":"Português","pergunta":"Complete: Eu ___ muito cansado.","opcoes":["estou","é","são","foi"],"resposta":"estou"}
+{"id":199,"categoria":"Português","pergunta":"Qual é o antônimo de 'bom'?","opcoes":["mau","ótimo","grande","legal"],"resposta":"mau"}
+{"id":200,"categoria":"Português","pergunta":"Qual é o plural de 'navio'?","opcoes":["navios","navioss","naviós","navies"],"resposta":"navios"}
+{"id":201,"categoria":"Geral","pergunta":"Qual é a capital do Brasil?","opcoes":["Rio de Janeiro","Brasília","São Paulo","Salvador"],"resposta":"Brasília"}
+{"id":202,"categoria":"Geral","pergunta":"Quantos continentes existem no mundo?","opcoes":["5","6","7","8"],"resposta":"7"}
+{"id":203,"categoria":"Geral","pergunta":"Qual é o maior oceano do planeta?","opcoes":["Atlântico","Índico","Pacífico","Ártico"],"resposta":"Pacífico"}
+{"id":204,"categoria":"Geral","pergunta":"Quem escreveu 'Dom Quixote'?","opcoes":["Miguel de Cervantes","William Shakespeare","José Saramago","Machado de Assis"],"resposta":"Miguel de Cervantes"}
+{"id":205,"categoria":"Geral","pergunta":"Qual é a moeda oficial do Japão?","opcoes":["Yuan","Yen","Dólar","Won"],"resposta":"Yen"}
+{"id":206,"categoria":"Geral","pergunta":"Qual é o país mais populoso do mundo?","opcoes":["Índia","China","Estados Unidos","Indonésia"],"resposta":"China"}
+{"id":207,"categoria":"Geral","pergunta":"Qual é o maior país do mundo em território?","opcoes":["China","Canadá","Rússia","Estados Unidos"],"resposta":"Rússia"}
+{"id":208,"categoria":"Geral","pergunta":"Qual é o rio mais longo do mundo?","opcoes":["Nilo","Amazonas","Yangtzé","Mississippi"],"resposta":"Amazonas"}
+{"id":209,"categoria":"Geral","pergunta":"Qual é a capital da França?","opcoes":["Lyon","Paris","Marselha","Nice"],"resposta":"Paris"}
+{"id":210,"categoria":"Geral","pergunta":"Qual é o planeta mais próximo do Sol?","opcoes":["Vênus","Mercúrio","Marte","Terra"],"resposta":"Mercúrio"}
+{"id":211,"categoria":"Geral","pergunta":"Quem pintou a Mona Lisa?","opcoes":["Michelangelo","Leonardo da Vinci","Rafael","Donatello"],"resposta":"Leonardo da Vinci"}
+{"id":212,"categoria":"Geral","pergunta":"Qual é o idioma oficial do Brasil?","opcoes":["Espanhol","Inglês","Português","Francês"],"resposta":"Português"}
+{"id":213,"categoria":"Geral","pergunta":"Qual é o maior deserto do mundo?","opcoes":["Sahara","Gobi","Antártico","Kalahari"],"resposta":"Antártico"}
+{"id":214,"categoria":"Geral","pergunta":"Qual é o símbolo químico do ouro?","opcoes":["Ag","Au","Pb","Fe"],"resposta":"Au"}
+{"id":215,"categoria":"Geral","pergunta":"Quantos anos tem um século?","opcoes":["50","100","150","200"],"resposta":"100"}
+{"id":216,"categoria":"Geral","pergunta":"Qual é o menor país do mundo?","opcoes":["Mônaco","Vaticano","San Marino","Liechtenstein"],"resposta":"Vaticano"}
+{"id":217,"categoria":"Geral","pergunta":"Quem descobriu a América?","opcoes":["Cristóvão Colombo","Vasco da Gama","Pedro Álvares Cabral","Leif Erikson"],"resposta":"Cristóvão Colombo"}
+{"id":218,"categoria":"Geral","pergunta":"Qual é a capital da Itália?","opcoes":["Roma","Milão","Veneza","Florença"],"resposta":"Roma"}
+{"id":219,"categoria":"Geral","pergunta":"Qual é a maior floresta tropical do mundo?","opcoes":["Floresta Amazônica","Floresta do Congo","Taiga","Floresta da Malásia"],"resposta":"Floresta Amazônica"}
+{"id":220,"categoria":"Geral","pergunta":"Qual é o animal terrestre mais rápido?","opcoes":["Leão","Guepardo","Tigre","Leopardo"],"resposta":"Guepardo"}
+{"id":221,"categoria":"Geral","pergunta":"Qual é o planeta mais distante do Sol?","opcoes":["Netuno","Urano","Saturno","Plutão"],"resposta":"Netuno"}
+{"id":222,"categoria":"Geral","pergunta":"Quem escreveu 'Hamlet'?","opcoes":["Goethe","William Shakespeare","Victor Hugo","Tolstói"],"resposta":"William Shakespeare"}
+{"id":223,"categoria":"Geral","pergunta":"Qual é o metal mais leve?","opcoes":["Alumínio","Lítio","Ferro","Cobre"],"resposta":"Lítio"}
+{"id":224,"categoria":"Geral","pergunta":"Qual é a capital da Alemanha?","opcoes":["Munique","Berlim","Frankfurt","Hamburgo"],"resposta":"Berlim"}
+{"id":225,"categoria":"Geral","pergunta":"Qual é o maior mamífero do mundo?","opcoes":["Elefante","Baleia Azul","Girafa","Rinoceronte"],"resposta":"Baleia Azul"}
+{"id":226,"categoria":"Geral","pergunta":"Qual é o país do futebol?","opcoes":["Argentina","Brasil","Itália","Espanha"],"resposta":"Brasil"}
+{"id":227,"categoria":"Geral","pergunta":"Qual é a capital do Canadá?","opcoes":["Toronto","Vancouver","Ottawa","Montreal"],"resposta":"Ottawa"}
+{"id":228,"categoria":"Geral","pergunta":"Quem inventou a lâmpada?","opcoes":["Alexander Graham Bell","Thomas Edison","Nikola Tesla","Albert Einstein"],"resposta":"Thomas Edison"}
+{"id":229,"categoria":"Geral","pergunta":"Qual é o maior lago do mundo?","opcoes":["Lago Vitória","Lago Superior","Lago Baikal","Lago Tanganica"],"resposta":"Lago Superior"}
+{"id":230,"categoria":"Geral","pergunta":"Qual é a capital da Espanha?","opcoes":["Barcelona","Madrid","Valência","Sevilha"],"resposta":"Madrid"}
+{"id":231,"categoria":"Geral","pergunta":"Qual é o planeta conhecido como planeta vermelho?","opcoes":["Marte","Vênus","Júpiter","Mercúrio"],"resposta":"Marte"}
+{"id":232,"categoria":"Geral","pergunta":"Quem foi o primeiro homem a pisar na Lua?","opcoes":["Neil Armstrong","Buzz Aldrin","Yuri Gagarin","Michael Collins"],"resposta":"Neil Armstrong"}
+{"id":233,"categoria":"Geral","pergunta":"Qual é a capital da Argentina?","opcoes":["Buenos Aires","Rosário","Mendoza","Córdoba"],"resposta":"Buenos Aires"}
+{"id":234,"categoria":"Geral","pergunta":"Qual é a língua mais falada no mundo?","opcoes":["Inglês","Chinês Mandarim","Espanhol","Hindi"],"resposta":"Chinês Mandarim"}
+{"id":235,"categoria":"Geral","pergunta":"Qual é o maior país da América do Sul?","opcoes":["Brasil","Argentina","Peru","Colômbia"],"resposta":"Brasil"}
+{"id":236,"categoria":"Geral","pergunta":"Qual é a capital da Rússia?","opcoes":["São Petersburgo","Moscou","Kazan","Novosibirsk"],"resposta":"Moscou"}
+{"id":237,"categoria":"Geral","pergunta":"Qual é o ponto mais alto da Terra?","opcoes":["Monte Everest","K2","Makalu","Cho Oyu"],"resposta":"Monte Everest"}
+{"id":238,"categoria":"Geral","pergunta":"Qual é o elemento químico com símbolo O?","opcoes":["Ouro","Oxigênio","Osmio","Óxido"],"resposta":"Oxigênio"}
+{"id":239,"categoria":"Geral","pergunta":"Quem escreveu 'O Pequeno Príncipe'?","opcoes":["Antoine de Saint-Exupéry","Jules Verne","Victor Hugo","Charles Dickens"],"resposta":"Antoine de Saint-Exupéry"}
+{"id":240,"categoria":"Geral","pergunta":"Qual é a capital da China?","opcoes":["Pequim","Xangai","Hong Kong","Shenzhen"],"resposta":"Pequim"}
+{"id":241,"categoria":"Geral","pergunta":"Qual é a maior ilha do mundo?","opcoes":["Madagáscar","Groenlândia","Sumatra","Nova Guiné"],"resposta":"Groenlândia"}
+{"id":242,"categoria":"Geral","pergunta":"Quem é conhecido como pai da psicanálise?","opcoes":["Sigmund Freud","Carl Jung","Ivan Pavlov","Alfred Adler"],"resposta":"Sigmund Freud"}
+{"id":243,"categoria":"Geral","pergunta":"Qual é a capital do México?","opcoes":["Guadalajara","Cancún","Cidade do México","Monterrey"],"resposta":"Cidade do México"}
+{"id":244,"categoria":"Geral","pergunta":"Qual é o planeta mais quente do sistema solar?","opcoes":["Mercúrio","Vênus","Marte","Júpiter"],"resposta":"Vênus"}
+{"id":245,"categoria":"Geral","pergunta":"Qual é o maior deserto quente do mundo?","opcoes":["Sahara","Gobi","Kalahari","Sonora"],"resposta":"Sahara"}
+{"id":246,"categoria":"Geral","pergunta":"Qual é a capital da Austrália?","opcoes":["Sydney","Melbourne","Canberra","Perth"],"resposta":"Canberra"}
+{"id":247,"categoria":"Geral","pergunta":"Qual é o maior país da África?","opcoes":["Nigéria","Argélia","Egito","Sudão"],"resposta":"Argélia"}
+{"id":248,"categoria":"Geral","pergunta":"Quem foi o primeiro presidente dos Estados Unidos?","opcoes":["Thomas Jefferson","George Washington","Abraham Lincoln","John Adams"],"resposta":"George Washington"}
+{"id":249,"categoria":"Geral","pergunta":"Qual é a capital do Egito?","opcoes":["Alexandria","Cairo","Luxor","Aswan"],"resposta":"Cairo"}
+{"id":250,"categoria":"Geral","pergunta":"Qual é o maior animal terrestre?","opcoes":["Elefante Africano","Elefante Asiático","Rinoceronte Branco","Hipopótamo"],"resposta":"Elefante Africano"}
+{"id":251,"categoria":"Geral","pergunta":"Qual é a capital da Índia?","opcoes":["Mumbai","Nova Deli","Bangalore","Calcutá"],"resposta":"Nova Deli"}
+{"id":252,"categoria":"Geral","pergunta":"Qual é a maior cordilheira do mundo?","opcoes":["Alpes","Himalaias","Andes","Rockies"],"resposta":"Himalaias"}
+{"id":253,"categoria":"Geral","pergunta":"Quem pintou 'A Última Ceia'?","opcoes":["Leonardo da Vinci","Michelangelo","Rafael","Donatello"],"resposta":"Leonardo da Vinci"}
+{"id":254,"categoria":"Geral","pergunta":"Qual é a moeda oficial dos Estados Unidos?","opcoes":["Dólar","Euro","Libra","Yen"],"resposta":"Dólar"}
+{"id":255,"categoria":"Geral","pergunta":"Qual é o maior rio da América do Sul?","opcoes":["Orinoco","Amazonas","Paraná","São Francisco"],"resposta":"Amazonas"}
+{"id":256,"categoria":"Geral","pergunta":"Qual é a capital do Reino Unido?","opcoes":["Manchester","Londres","Liverpool","Birmingham"],"resposta":"Londres"}
+{"id":257,"categoria":"Geral","pergunta":"Qual é o país conhecido como 'Terra do Sol Nascente'?","opcoes":["China","Japão","Coreia do Sul","Tailândia"],"resposta":"Japão"}
+{"id":258,"categoria":"Geral","pergunta":"Quem escreveu '1984'?","opcoes":["George Orwell","Aldous Huxley","Jules Verne","Ray Bradbury"],"resposta":"George Orwell"}
+{"id":259,"categoria":"Geral","pergunta":"Qual é o planeta com maior número de luas?","opcoes":["Saturno","Júpiter","Urano","Netuno"],"resposta":"Júpiter"}
+{"id":260,"categoria":"Geral","pergunta":"Qual é a capital da Turquia?","opcoes":["Istambul","Ancara","Esmirna","Bursa"],"resposta":"Ancara"}
+{"id":261,"categoria":"Geral","pergunta":"Qual é o símbolo químico da prata?","opcoes":["Au","Ag","Pt","Pb"],"resposta":"Ag"}
+{"id":262,"categoria":"Geral","pergunta":"Qual é o país conhecido pelos faraós?","opcoes":["Egito","Grécia","Itália","Índia"],"resposta":"Egito"}
+{"id":263,"categoria":"Geral","pergunta":"Qual é a capital da África do Sul?","opcoes":["Pretória","Joanesburgo","Cidade do Cabo","Durban"],"resposta":"Pretória"}
+{"id":264,"categoria":"Geral","pergunta":"Quem foi Albert Einstein?","opcoes":["Físico","Químico","Biólogo","Matemático"],"resposta":"Físico"}
+{"id":265,"categoria":"Geral","pergunta":"Qual é o maior planeta do sistema solar?","opcoes":["Júpiter","Saturno","Urano","Netuno"],"resposta":"Júpiter"}
+{"id":266,"categoria":"Geral","pergunta":"Qual é a capital da Noruega?","opcoes":["Bergen","Oslo","Trondheim","Stavanger"],"resposta":"Oslo"}
+{"id":267,"categoria":"Geral","pergunta":"Qual é a principal língua falada na Argentina?","opcoes":["Português","Espanhol","Inglês","Francês"],"resposta":"Espanhol"}
+{"id":268,"categoria":"Geral","pergunta":"Quem escreveu 'Romeu e Julieta'?","opcoes":["William Shakespeare","Miguel de Cervantes","Victor Hugo","Goethe"],"resposta":"William Shakespeare"}
+{"id":269,"categoria":"Geral","pergunta":"Qual é o maior golfo do mundo?","opcoes":["Golfo do México","Baía de Bengala","Golfo Pérsico","Baía de Hudson"],"resposta":"Golfo do México"}
+{"id":270,"categoria":"Geral","pergunta":"Qual é a capital da Nigéria?","opcoes":["Lagos","Abuja","Kano","Ibadan"],"resposta":"Abuja"}
+{"id":271,"categoria":"Geral","pergunta":"Qual é o animal mais rápido do mundo?","opcoes":["Leopardo","Guepardo","Falcão Peregrino","Leão"],"resposta":"Falcão Peregrino"}
+{"id":272,"categoria":"Geral","pergunta":"Qual é a capital da Coreia do Sul?","opcoes":["Seul","Busan","Incheon","Daegu"],"resposta":"Seul"}
+{"id":273,"categoria":"Geral","pergunta":"Qual é a maior baía do mundo?","opcoes":["Baía de San Francisco","Baía de Chesapeake","Baía de Hudson","Baía de Bengal"],"resposta":"Baía de Bengal"}
+{"id":274,"categoria":"Geral","pergunta":"Quem descobriu a penicilina?","opcoes":["Alexander Fleming","Louis Pasteur","Marie Curie","Gregor Mendel"],"resposta":"Alexander Fleming"}
+{"id":275,"categoria":"Geral","pergunta":"Qual é a capital do Peru?","opcoes":["Cusco","Lima","Arequipa","Trujillo"],"resposta":"Lima"}
+{"id":276,"categoria":"Geral","pergunta":"Qual é a camada mais externa da Terra?","opcoes":["Manto","Crosta","Núcleo","Litosfera"],"resposta":"Crosta"}
+{"id":277,"categoria":"Geral","pergunta":"Qual é a capital da Grécia?","opcoes":["Atenas","Salónica","Patras","Larissa"],"resposta":"Atenas"}
+{"id":278,"categoria":"Geral","pergunta":"Qual é o animal símbolo da Austrália?","opcoes":["Canguru","Koala","Dingo","Emu"],"resposta":"Canguru"}
+{"id":279,"categoria":"Geral","pergunta":"Quem pintou 'O Grito'?","opcoes":["Edvard Munch","Vincent van Gogh","Claude Monet","Pablo Picasso"],"resposta":"Edvard Munch"}
+{"id":280,"categoria":"Geral","pergunta":"Qual é a capital do Chile?","opcoes":["Santiago","Valparaíso","Concepción","La Serena"],"resposta":"Santiago"}
+{"id":281,"categoria":"Geral","pergunta":"Qual é o maior estado do Brasil?","opcoes":["Amazonas","São Paulo","Minas Gerais","Mato Grosso"],"resposta":"Amazonas"}
+{"id":282,"categoria":"Geral","pergunta":"Quem escreveu 'O Senhor dos Anéis'?","opcoes":["J.R.R. Tolkien","C.S. Lewis","George R.R. Martin","J.K. Rowling"],"resposta":"J.R.R. Tolkien"}
+{"id":283,"categoria":"Geral","pergunta":"Qual é a capital da Suíça?","opcoes":["Zurique","Genebra","Berna","Basel"],"resposta":"Berna"}
+{"id":284,"categoria":"Geral","pergunta":"Qual é a maior cidade do mundo em população?","opcoes":["Nova York","Tóquio","Xangai","Mumbai"],"resposta":"Tóquio"}
+{"id":285,"categoria":"Geral","pergunta":"Qual é a capital da Polônia?","opcoes":["Cracóvia","Varsóvia","Gdańsk","Poznań"],"resposta":"Varsóvia"}
+{"id":286,"categoria":"Geral","pergunta":"Qual é o maior animal aquático?","opcoes":["Tubarão-branco","Orca","Baleia Azul","Cachalote"],"resposta":"Baleia Azul"}
+{"id":287,"categoria":"Geral","pergunta":"Qual é o país conhecido pela Torre Eiffel?","opcoes":["Itália","França","Alemanha","Espanha"],"resposta":"França"}
+{"id":288,"categoria":"Geral","pergunta":"Qual é a capital da Suécia?","opcoes":["Estocolmo","Gotemburgo","Malmö","Uppsala"],"resposta":"Estocolmo"}
+{"id":289,"categoria":"Geral","pergunta":"Qual é a montanha mais alta da África?","opcoes":["Kilimanjaro","Atlas","Montes Drakensberg","Simien"],"resposta":"Kilimanjaro"}
+{"id":290,"categoria":"Geral","pergunta":"Quem descobriu o Brasil?","opcoes":["Pedro Álvares Cabral","Cristóvão Colombo","Vasco da Gama","Américo Vespúcio"],"resposta":"Pedro Álvares Cabral"}
+{"id":291,"categoria":"Geral","pergunta":"Qual é a capital da Bélgica?","opcoes":["Antuérpia","Bruxelas","Gante","Liège"],"resposta":"Bruxelas"}
+{"id":292,"categoria":"Geral","pergunta":"Qual é o maior país da América Central?","opcoes":["Guatemala","Honduras","Nicarágua","Panamá"],"resposta":"Nicarágua"}
+{"id":293,"categoria":"Geral","pergunta":"Quem escreveu 'A Odisséia'?","opcoes":["Homero","Sófocles","Eurípides","Platão"],"resposta":"Homero"}
+{"id":294,"categoria":"Geral","pergunta":"Qual é o planeta mais frio do sistema solar?","opcoes":["Netuno","Urano","Plutão","Saturno"],"resposta":"Netuno"}
+{"id":295,"categoria":"Geral","pergunta":"Qual é a capital da Finlândia?","opcoes":["Helsinque","Tampere","Espoo","Turku"],"resposta":"Helsinque"}
+{"id":296,"categoria":"Geral","pergunta":"Qual é o maior arquipélago do mundo?","opcoes":["Maldivas","Indonésia","Filipinas","Japão"],"resposta":"Indonésia"}
+{"id":297,"categoria":"Geral","pergunta":"Quem escreveu 'O Hobbit'?","opcoes":["J.R.R. Tolkien","C.S. Lewis","George R.R. Martin","J.K. Rowling"],"resposta":"J.R.R. Tolkien"}
+{"id":298,"categoria":"Geral","pergunta":"Qual é o país do samba e do futebol?","opcoes":["Argentina","Espanha","Brasil","Portugal"],"resposta":"Brasil"}
+{"id":299,"categoria":"Geral","pergunta":"Qual é a capital da Dinamarca?","opcoes":["Aarhus","Copenhague","Odense","Aalborg"],"resposta":"Copenhague"}
+{"id":300,"categoria":"Geral","pergunta":"Qual é a maior cachoeira do mundo?","opcoes":["Iguaçu","Niágara","Victoria","Angel Falls"],"resposta":"Angel Falls"}
