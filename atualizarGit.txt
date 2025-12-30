@@ -2,3 +2,6 @@ git add perguntas.json server.js
 >> git commit -m "Atualiza perguntas e ajustes no servidor"
 >> git push
 
+git add perguntas.json
+git commit -m "Ajuste na estrutura do perguntas.json"
+git push origin main
